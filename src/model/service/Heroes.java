@@ -1,5 +1,5 @@
 package model.service;
 
-public class Heroes {
-
+public interface Heroes {
+	public String fraseHeroe();
 }

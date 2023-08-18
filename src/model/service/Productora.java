@@ -1,5 +1,7 @@
 package model.service;
 
-public class Productora {
+public interface Productora {
 
+	public Heroes getHeroe();
+	public Villanos getVillanos();
 }

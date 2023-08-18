@@ -1,5 +1,5 @@
 package model.service;
 
-public class Villanos {
-
+public interface Villanos {
+	public String FraseVillano();
 }
