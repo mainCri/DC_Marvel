@@ -5,7 +5,7 @@ public class Darkseid implements Villanos{
 
 	public String FraseVillano() {
 		// TODO Auto-generated method stub
-		return "soy la muerte. ATT: DARKSEID";
+		return "yo soy tu padre. ATT: DARKSEID";
 	}
 
 }
