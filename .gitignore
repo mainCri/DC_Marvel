@@ -1,4 +1,4 @@
 /target/
 /bin/
-/.pom.xml/
-/.settings/
+*pom.xml
+*settings/
